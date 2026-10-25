@@ -32,10 +32,6 @@ Using SQL, Python, and Tableau, I explored loan purposes, income levels, loan-to
 - Investigate loan categories with higher default rates or larger default volumes.
 - Consider employment history alongside other borrower characteristics.
 
-## Limitations
-
-The dataset is a sample and may not represent an actual bank portfolio. The analysis identifies relationships, not causes of default. Some missing employment data was filled during cleaning, and results for small groups should be interpreted cautiously.
-
 ## Project Status
 
 **Completed** — Data cleaning, SQL analysis, exploratory analysis, and Tableau dashboards.
